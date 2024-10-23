@@ -1,5 +1,5 @@
 # lle
-This is for the liquid-liquid extraction project
+#This is for the liquid-liquid extraction project
 import numpy as np
 import matplotlib.pyplot as plt
 
